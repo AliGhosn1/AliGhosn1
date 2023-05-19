@@ -1,6 +1,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![Header](./github-header-image(1).png)
 
 <h1 align="center">
 💫 About Me
