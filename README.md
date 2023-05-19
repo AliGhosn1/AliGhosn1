@@ -1,6 +1,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![Banner](alighosnbanner.png)
 
 <h1 align="center">
 💫 About Me
