@@ -4,7 +4,7 @@
 ![Banner](alighosnbanner.png)
 
 <h1 align="center">
-💫 About Me
+About Me
 </h1>
 
 🔭 I’m currently working on refining my MERN skills<br>
