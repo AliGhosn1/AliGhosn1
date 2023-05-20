@@ -10,10 +10,8 @@ About Me
 🎮 Avid gamer who embraces challenges and uses problem-solving skills to conquer virtual worlds.<br>
 🌐 Open to collaboration opportunities on full-stack web applications.<br>
 💬 Ask me about any of my projects.<br>
-🤝 Let's connect and create something awesome together in the world of web development!
+🤝 Let's connect and create something awesome together in the world of web development!<br>
 
-## Check out my:
-📄 Resume!<br>
 [🎦 Portfolio Website!](https://www.alighosn.ca/)<br>
 📫 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XFWwKWwm) 
@@ -55,12 +53,15 @@ Other:
 <a href="https://github.com/AliGhosn1/EcommerceWebsite">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=EcommerceWebsite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AliGhosn1/EcommerceWebsite">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=EcommerceWebsite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/AliGhosn1/Paw-Tracer">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=Paw-Tracer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  
 <br /><br />
-<a href="https://github.com/AliGhosn1/EcommerceWebsite">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=EcommerceWebsite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/AliGhosn1/Yariga-Mern-Application">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=Yariga-Mern-Application&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AliGhosn1/personal-website-v2">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=personal-website-v2&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 # 📊 Coding Stats
@@ -111,9 +112,6 @@ Windows                  4 hrs 23 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alighosn1&title=MultiLanguage,Joined2020,Commits,Repositories,Followers&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=alighosn1&icon=5&color=9)](https://visitcount.itsvg.in)
 
