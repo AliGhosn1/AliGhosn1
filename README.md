@@ -7,12 +7,13 @@
 About Me
 </h1>
 
-🔭 I’m currently working on refining my MERN skills<br>
-👯 I’m looking to collaborate on full-stack web applications<br>
-🤝 I’m looking for open web-dev positions<br>
-💬 Ask me about any of my projects<br>
+👦 Dedicated software developer with an eagerness to learn.<br>
+🎮 Avid gamer who embraces challenges and uses problem-solving skills to conquer virtual worlds.<br>
+🌐 Open to collaboration opportunities on full-stack web applications.<br>
+💬 Ask me about any of my projects.<br>
+🤝 Let's connect and create something awesome together in the world of web development!
 
-### Check out my:
+## Check out my:
 📄 Resume!<br>
 🎦 Portfolio Website!<br>
 📫 
